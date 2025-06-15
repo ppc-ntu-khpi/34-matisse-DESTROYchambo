@@ -22,14 +22,21 @@
 ![](https://github.com/ppc-ntu-khpi/34-matisse-DESTROYchambo/blob/defbdb04468f35b5881dae87e8de8b9c35e772e7/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-12%20185250.png)
 
 ## На "чотири"
-1. Доповніть код таким чином, щоб з файлу **test.dat** (робота номер 8, [файл даних](https://github.com/ppc-ntu-khpi/GUI-Lab2-Starter/blob/master/data/test.dat) також є в цьому ж репозиторію) читалась інформація про клієнтів банку та їх рахунки 
+<b>
+  
 2. Напишіть обробники подій для елементів керування, завдяки яким би при виборі клієнта та натисненні кнопки **Show** виводилась інформація про нього та всі його рахунки
+  
 3. Кнопка **About** має демонструвати діалогове вікно з інформацією про програму та її розробників (**[JOptionPane](https://docs.oracle.com/javase/7/docs/api/javax/swing/JOptionPane.html)**)
-3. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
+
+</b>
+
+![](https://github.com/ppc-ntu-khpi/34-matisse-DESTROYchambo/blob/3145f2e956dcd794deb51c996af56f22b10101d4/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-15%20135531.png)
 
 ## На "п'ять"
 1. Кнопка **Report** має виводити у нижній частині вікна звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport).
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві. 
+
+![](https://github.com/ppc-ntu-khpi/34-matisse-DESTROYchambo/blob/0a8a2e34ba56b061d0ff9d53938c265354c3b223/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-15%20135820.png)
 
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
